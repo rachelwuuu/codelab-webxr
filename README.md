@@ -1,3 +1,5 @@
+# Note: This repository is forked from google-ar/codelab-webxr and I have made changes to it.
+
 # Building an augmented reality application with the WebXR Device API
 
 This code has the resources you need for the codelab [Building an augmented reality application with the WebXR Device API](https://codelabs.developers.google.com/ar-with-webxr/#0).
